@@ -12,5 +12,5 @@ $ git clone https://github.com/cexploit99/TrackIP
 $ cd TrackIP
 $ python track.py
 
-```img
+```images
 <img src="https://f.top4top.io/p_2718smy4e0.jpg" width="250px">
