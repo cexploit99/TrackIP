@@ -7,7 +7,7 @@ TrackIP adalah layanan online yang memungkinkan Anda melacak alamat geografis be
 $ pkg install python-pip
 $ pip install requests
 ```
-Continue To Clone  :
+Perintah Menjalankan  :
 ```html
 $ git clone https://github.com/cexploit99/TrackIP
 $ cd TrackIP
