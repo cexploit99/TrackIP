@@ -8,6 +8,6 @@ $ pip install requests
 ```
 Continue To Clone  :
 ```html
-$ git clone https://github.com/MrTamfanX/Buitenzorg-TrackIP
-$ cd Buitenzorg-TrackIP
+$ git clone https://github.com/cexploit99/TrackIP
+$ cd TrackIP
 $ python track.py
